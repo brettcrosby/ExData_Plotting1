@@ -4,7 +4,7 @@
 # ------------------------------------------------------
 
 # Set the working directory for the project
-setwd("~/../git/Coursera/ExpDataAnalysis/")
+setwd("~/../git/Coursera/ExpDataAnalysis/ExData_Plotting1")
 
 # Source the file containing the helper functions
 source("helperFunctions.R")
